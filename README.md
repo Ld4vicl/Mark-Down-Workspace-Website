@@ -32,11 +32,7 @@
 - Naming class for **Pascal Case**, functions, variables, constants with **Camel Case**.
 - Language: English.
 - **AIs are not allowed**
-
-## Banned:
-
-- No AI
-- OnlyDocs
+- **OnlyDocs**
 
 ## Timeline :
 
