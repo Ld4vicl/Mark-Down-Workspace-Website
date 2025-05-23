@@ -31,8 +31,8 @@
 - Follow MVC model to Maintain organized folder structure and clean architecture.
 - Naming class for **Pascal Case**, functions, variables, constants with **Camel Case**.
 - Language: English.
-- **AIs are not allowed**
-- **OnlyDocs**
+- **AIs are not allowed** 🤖 ❌
+- **OnlyDocs** ✅
 
 ## Timeline :
 
